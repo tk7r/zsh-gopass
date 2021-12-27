@@ -10,3 +10,7 @@ Add `gopass` to the plugins array of your zshrc file:
 ```
 plugins=(... gopass)
 ```
+
+## Source
+
+The command completion script is a direct download from the official [gopass repository](https://github.com/gopasspw/gopass)/[zsh.completion](https://github.com/gopasspw/gopass/blob/master/zsh.completion). Packaged for easier consumption by zsh users.
